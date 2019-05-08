@@ -11,9 +11,9 @@ import java.util.ArrayList;
 
 public class Database{
 
-  private final static String database_url = "jdbc:postgresql://172.17.0.2:5432/postgres";
-  private final static String database_username = "Admin";
-  private final static String database_password = "Texasb0bcat";
+  private final static String database_url = "";
+  private final static String database_username = "";
+  private final static String database_password = "";
   private PreparedStatement statement;
 
 
